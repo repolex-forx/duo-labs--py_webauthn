@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/duo-labs/py_webauthn/commit/c9ba2b7dad6b76bec89e44c76c8ed81fc43287bb",
       "git:hexsha": "c9ba2b7dad6b76bec89e44c76c8ed81fc43287bb",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:01:47.492377+00:00"
     },
     {
       "@id": "https://repolex.ai/r/duo-labs/py_webauthn/commit/19430c51f8f02424bf4304fea097991968ba8a83",
