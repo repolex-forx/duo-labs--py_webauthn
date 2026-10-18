@@ -1,0 +1,11 @@
+{
+  "org": "duo-labs",
+  "repo": "py_webauthn",
+  "versions": [
+    {
+      "commit": "c9ba2b7dad6b76bec89e44c76c8ed81fc43287bb",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:01:47.493025+00:00"
+    }
+  ]
+}
